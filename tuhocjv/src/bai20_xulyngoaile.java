@@ -12,7 +12,7 @@ public class bai20_xulyngoaile {
             System.out.println("c= "+c);
         }
         catch (ArithmeticException ex){
-            // chỉ bắt lỗi của số học nếu k phải xuống dưới Exception bắt tất cả các lỗi
+            // chỉ bắt lỗi của số học nếu k phải xuống dưới Exception bắt all of error
             System.out.println("có lỗi ở đây!!");
             ex.printStackTrace();
         }
