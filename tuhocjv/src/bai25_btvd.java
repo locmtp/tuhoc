@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class bai26_btvd {
+public class bai25_btvd {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.println("Create account");

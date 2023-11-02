@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class bai26_charjava {
+public class bai25_charjava {
     public static void main(String[] args) {
         //khởi tạo
         char ch = 'c';
